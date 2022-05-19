@@ -1,1 +1,1 @@
-Different methods to do spam detection
+Different methods to do spam detection.
